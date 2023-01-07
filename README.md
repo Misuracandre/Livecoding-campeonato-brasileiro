@@ -1,6 +1,4 @@
-# livecoding-campeonato-brasileiro
-
-Projeto para o Live Code do Digital Innovation One Inc.
+# API dos jogos, rodadas e classificação do campeonato brasileiro usando Spring Boot
 
 ## Clonando, compilando e iniciando o projeto
 
